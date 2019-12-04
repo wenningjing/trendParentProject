@@ -1,0 +1,12 @@
+
+Bsquid:S1172N"+Remove this unused method parameter "code".(”üª
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ªüÀÎ
+`squid:HiddenFieldCheckA">Rename "indexDatas" which hides the field declared at line 27.(Æ¬åş
+squid:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½¥…Ãûÿÿÿÿ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ô©’Š
+fsquid:S00100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”üª
+ksquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÜÅıøÿÿÿÿ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ŸİÍö
