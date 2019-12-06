@@ -1,8 +1,7 @@
 
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ï©ª½
 N
 squid:S106 "9Replace this use of System.out or System.err by a logger.(ÉÓö@
-Êsquid:S1598"­This file "IndexDataSyncJob.java" should be located in "cn\how2j\trend\job" directory, not in "F:\ideaworkspace\trendParentProject\index-gather-store-service\src\main\java".(ƒá‰ýÿÿÿÿÿ
-Psquid:UselessImportCheck"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï©ª½
 Xsquid:UselessImportCheck	"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ
+Psquid:UselessImportCheck"-Remove this unused import 'org.slf4j.Logger'.(íØ®6

@@ -1,8 +1,8 @@
 
+¤squid:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦³üëûÿÿÿÿ8²´°­ê-
+rsquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üä¤Íüÿÿÿÿ8²´°­ê-
+msquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÎĞ8²´°­ê-
 V
 squid:S106("9Replace this use of System.out or System.err by a logger.(¿è®Î8²´°­ê-
-rsquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üä¤Íüÿÿÿÿ8²´°­ê-
 V
 squid:S106D"9Replace this use of System.out or System.err by a logger.(ŸİÍö8²´°­ê-
-msquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÎĞ8²´°­ê-
-¤squid:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦³üëûÿÿÿÿ8²´°­ê-

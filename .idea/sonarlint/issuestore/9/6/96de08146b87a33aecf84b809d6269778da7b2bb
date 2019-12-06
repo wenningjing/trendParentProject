@@ -1,13 +1,13 @@
 
-O
-squid:S1066"9Replace this use of System.out or System.err by a logger.(ò¯Øå
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
 ^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
-hsquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ
 T
 squid:S106#"9Replace this use of System.out or System.err by a logger.(ï¿ƒÿÿÿÿÿ
-asquid:UselessImportCheck"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ
-Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
-fsquid:UselessImportCheck"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì
 asquid:UselessImportCheck"=Remove this unused import 'cn.hutool.core.thread.ThreadUtil'.(¶Åª«
 V
 squid:S106'"9Replace this use of System.out or System.err by a logger.(‚Ş­Ú8”‘Ê«ê-
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ò¯Øå
+fsquid:UselessImportCheck"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì
+hsquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ
+asquid:UselessImportCheck"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ
